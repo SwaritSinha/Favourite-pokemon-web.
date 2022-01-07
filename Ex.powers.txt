@@ -1,0 +1,16 @@
+  Powers                         Damage                                              
+Shadow ball                          99%
+Thunder bolt                         50%
+Protect                                     0%
+Hypnotize                                100%
+Shield                                        0%
+For Charizard and 
+Luxray…
+Fire blaze                              99%
+Quick attack                       50% 
+Freeze                                    50%
+Fire kick                               75%
+Protect                                   0%
+Hypnotize                              100%
+Shield                                      0%
+For Blazikin and Delphox…
